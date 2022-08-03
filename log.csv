@@ -1,0 +1,9 @@
+23:43:57; User klick; 1
+23:44:06; Inputed rational formula; 2+2*2
+23:44:06; Result; 6
+23:44:13; User klick; 2
+23:44:40; Inputed complex formula; ('-4+5i', '8-8i', '*')
+23:44:40; Result; 8+72i
+23:45:01; User klick; 3
+23:45:13; User klick; 4
+23:45:13; Programm close; 
